@@ -25,3 +25,17 @@
 ---
 https://freezing-acoustic-bf2.notion.site/Yoon-Ho-LEE-29b77828bfca40a09fd11d9fdb5c5144?pvs=4 url
 [노션 주소](https://freezing-acoustic-bf2.notion.site/Yoon-Ho-LEE-29b77828bfca40a09fd11d9fdb5c5144?pvs=4)
+list
+1. 첫 번째 항목
+2. 두 번째 항목
+3. 세 번째 항목
+
+- 항목 1
+- 항목 2
+  - 하위 항목 A
+  - 하위 항목 B
+
+
+사진
+[사진](https://storep-phinf.pstatic.net/cafe_001/original_1.gif?type=pa60_60)
+
